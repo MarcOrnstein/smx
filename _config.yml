@@ -1,0 +1,6 @@
+markdown_ext: "md,html"
+exclude: 
+  - Gemfile
+  - Gemfile.lock
+  - jekyll.sh
+  - README.md
